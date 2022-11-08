@@ -1,3 +1,3 @@
-- 👋 Hi, I’m joeseph b
+- __👋__ Hi, I’m joeseph b
 - 👀 I’m interested in javascript
 - 🌱 I’m currently learning node.js & react.js
