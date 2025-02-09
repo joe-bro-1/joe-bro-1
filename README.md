@@ -1,3 +1,1 @@
-- __👋__ Hi, I’m joeseph b
-- 👀 I’m interested in javascript
-- 🌱 I’m currently learning ReactJS & NextJS
+
